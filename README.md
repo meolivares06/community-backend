@@ -1,11 +1,11 @@
-## Create your environment
+## Create your environment in some path
 `python -m venv venv`
 
 ## Activate it
 `source path/venv/bin/python`
 
 ## Install deps
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Run migrations
 `python manage.py makemigrations`
